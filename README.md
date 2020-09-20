@@ -10,4 +10,4 @@ A few things I'd like to add on this core code:
 - Add teaming functionalities that allows teams to evaluate the team dynamics
 - Import data / maybe add previous performance records
 
-> Usage: python3 final.py
+> Usage: python3 insights.py
